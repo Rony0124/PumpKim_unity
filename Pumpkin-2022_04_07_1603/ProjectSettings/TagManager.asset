@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Projectile
+  - UI
+  - Aim
+  - Heart
+  - SpawnPoint
+  - Rooms
+  - Door
+  - Gate
+  - Boss
+  - Bound
+  - NextStage
+  - EnemyProjectile
+  - MoveSpot
+  - Portal
+  - Mascot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - room
+  - destroyer
+  - Gate
+  - Wall
+  - Projectile
+  - Bound
+  - PlyerDamaged
+  - EnemyDead
+  - Minimap
+  - NextStage
+  - transparent
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: room
+    uniqueID: 3928952325
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 944179559
+    locked: 0
+  - name: Object
+    uniqueID: 1632196563
+    locked: 0
+  - name: Enemy
+    uniqueID: 2337894307
+    locked: 0
+  - name: Player
+    uniqueID: 2263318049
+    locked: 0
