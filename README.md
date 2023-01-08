@@ -6,6 +6,8 @@ My first time ever game development experience!!
 
 Successfully published this game on GooglePlay store. This is an 2D rogue-lite adventure game, and made this from a scratch. 
 
+<img width="1349" alt="Screenshot 2023-01-08 at 2 33 52 PM" src="https://user-images.githubusercontent.com/56284745/211182058-46e42af5-271e-4416-b98a-4cff787a12b5.png">
+
 <img width="613" alt="Screenshot 2023-01-08 at 2 32 28 PM" src="https://user-images.githubusercontent.com/56284745/211182016-5717be7c-4c5f-48b8-9249-2666072e6e01.png">
 
 <img width="582" alt="Screenshot 2023-01-08 at 2 32 23 PM" src="https://user-images.githubusercontent.com/56284745/211182021-8c58bd81-58d7-4100-b8bb-447f8ec07823.png">
